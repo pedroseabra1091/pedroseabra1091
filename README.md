@@ -26,8 +26,3 @@ Bound towards the cleanest code, I just knew I had to spread all the things I le
 <a href="https://github.com/pedroseabra1091/Crypto-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroseabra1091&repo=Crypto-Tracker&theme=calm" />
 </a>
-
-## 🔢 Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroseabra1091&show_icons=true&theme=calm)
-
-
