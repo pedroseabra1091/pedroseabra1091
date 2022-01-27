@@ -7,7 +7,7 @@ I'm a software engineer cursed with the perpetual pursuit of the cleanest code! 
 - Ruby on Rails
 - PostgresSQL
 - Redis
-- Docker (🚧)
+- Docker
 - Kubernetes (🚧)
 
 ## ✍️ Blog posts
