@@ -3,12 +3,13 @@
 I'm a software engineer cursed with the perpetual pursuit of the cleanest code! Hooked on all things Elixir and Ruby and currently working as a Software Engineer @ Deemaze Software.
 
 ## 🔨Technologies & Tools
-- Elixir
 - Ruby on Rails
+- Phoenix
 - PostgresSQL
 - Redis
 - Docker
 - Kubernetes (🚧)
+- Solidity(🚧)
 
 ## ✍️ Blog posts
 Every now and then I write too – [Medium](https://medium.com/@pedroseabra1091)!
