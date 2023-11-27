@@ -21,6 +21,9 @@ Bound towards the cleanest code, I just knew I had to spread all the things I le
 <a href="https://github.com/pedroseabra1091/Dungeon-Crawl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroseabra1091&repo=Dungeon-Crawl&theme=calm" />
 </a>
+<a href="https://github.com/pedroseabra1091/concoction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroseabra1091&repo=concoction&theme=calm" />
+</a>
 <a href="https://github.com/pedroseabra1091/Cookbook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroseabra1091&repo=Cookbook&theme=calm" />
 </a>
