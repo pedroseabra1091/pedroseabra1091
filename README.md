@@ -36,6 +36,7 @@ Crafted a Ruby and Ruby on Rails training program at Deemaze Software, specifica
 <a href="https://github.com/pedroseabra1091/bookshelf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroseabra1091&repo=bookshelf&theme=calm" />
 </a>
+
 <a href="https://github.com/pedroseabra1091/ruby-training-exercises">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroseabra1091&repo=ruby-training-exercises&theme=calm" />
 </a>
