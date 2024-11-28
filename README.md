@@ -14,7 +14,9 @@ I'm a software engineer cursed with the perpetual pursuit of the cleanest code! 
 ## ✍️ Blog posts
 Every now and then I write too – [Medium](https://medium.com/@pedroseabra1091)!
 
-## 🔖 Elixir training repositories
+## 🏃‍♂️ Trainings 
+
+**Elixir**
 Crafted and lectured a comprehensive 5 session Elixir training session at Deemaze Software. Below are the foundational materials developed throughout the sessions:
 
 <a href="https://github.com/pedroseabra1091/Dungeon-Crawl">
@@ -30,7 +32,7 @@ Crafted and lectured a comprehensive 5 session Elixir training session at Deemaz
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroseabra1091&repo=Crypto-Tracker&theme=calm" />
 </a>
 
-## 🔖 Ruby and Ruby on Rails training repositories
+**Ruby & RoR**
 Crafted a Ruby and Ruby on Rails training program at Deemaze Software, specifically tailored to onboard junior developers and equip them with practical skills for building real-world applications. Below are some of the foundational material developed throughout the sessions:
 
 <a href="https://github.com/pedroseabra1091/bookshelf">
