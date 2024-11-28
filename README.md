@@ -17,6 +17,7 @@ Every now and then I write too – [Medium](https://medium.com/@pedroseabra1091)
 ## 🏃‍♂️ Trainings 
 
 **Elixir**
+
 Crafted and lectured a comprehensive 5 session Elixir training session at Deemaze Software. Below are the foundational materials developed throughout the sessions:
 
 <a href="https://github.com/pedroseabra1091/Dungeon-Crawl">
@@ -33,6 +34,7 @@ Crafted and lectured a comprehensive 5 session Elixir training session at Deemaz
 </a>
 
 **Ruby & RoR**
+
 Crafted a Ruby and Ruby on Rails training program at Deemaze Software, specifically tailored to onboard junior developers and equip them with practical skills for building real-world applications. Below are some of the foundational material developed throughout the sessions:
 
 <a href="https://github.com/pedroseabra1091/bookshelf">
