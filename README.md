@@ -14,7 +14,7 @@ I'm a software engineer cursed with the perpetual pursuit of the cleanest code! 
 ## ✍️ Blog posts
 Every now and then I write too – [Medium](https://medium.com/@pedroseabra1091)!
 
-## 🏃‍♂️ Trainings 
+## 🏋🏻‍♂️ Trainings 
 
 **Elixir**
 
