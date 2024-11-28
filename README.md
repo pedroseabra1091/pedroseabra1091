@@ -15,7 +15,7 @@ I'm a software engineer cursed with the perpetual pursuit of the cleanest code! 
 Every now and then I write too – [Medium](https://medium.com/@pedroseabra1091)!
 
 ## 🔖 Elixir training repositories
-I recall a time untouched by this affliction, yet everything shifted when I ventured into the realm of Elixir. Driven by a commitment to pristine code, I felt compelled to share my newfound knowledge. Thanks to Deemaze Software, we arranged a comprehensive 5-session training series where I delved into various Elixir topics. Below are repositories containing materials I utilized throughout the sessions:
+Crafted and lectured a comprehensive 5 session Elixir training session at Deemaze Software. Below are the foundational materials developed throughout the sessions:
 
 <a href="https://github.com/pedroseabra1091/Dungeon-Crawl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroseabra1091&repo=Dungeon-Crawl&theme=calm" />
@@ -28,4 +28,14 @@ I recall a time untouched by this affliction, yet everything shifted when I vent
 </a>
 <a href="https://github.com/pedroseabra1091/Crypto-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroseabra1091&repo=Crypto-Tracker&theme=calm" />
+</a>
+
+## 🔖 Ruby and Ruby on Rails training repositories
+Crafted a Ruby and Ruby on Rails training program at Deemaze Software, specifically tailored to onboard junior developers and equip them with practical skills for building real-world applications. Below are some of the foundational material developed throughout the sessions:
+
+<a href="https://github.com/pedroseabra1091/bookshelf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroseabra1091&repo=bookshelf&theme=calm" />
+</a>
+<a href="https://github.com/pedroseabra1091/ruby-training-exercises">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroseabra1091&repo=ruby-training-exercises&theme=calm" />
 </a>
